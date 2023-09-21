@@ -1,0 +1,7 @@
+D:\AllC#Work\ques2\ques2\bin\Debug\ques2.exe.config
+D:\AllC#Work\ques2\ques2\bin\Debug\ques2.exe
+D:\AllC#Work\ques2\ques2\bin\Debug\ques2.pdb
+D:\AllC#Work\ques2\ques2\obj\Debug\ques2.csproj.AssemblyReference.cache
+D:\AllC#Work\ques2\ques2\obj\Debug\ques2.csproj.CoreCompileInputs.cache
+D:\AllC#Work\ques2\ques2\obj\Debug\ques2.exe
+D:\AllC#Work\ques2\ques2\obj\Debug\ques2.pdb
